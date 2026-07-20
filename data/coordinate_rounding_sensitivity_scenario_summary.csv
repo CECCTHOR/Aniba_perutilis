@@ -1,0 +1,4 @@
+"rounding_decimals","source_rows","quality_pass_database_records","unique_event_keys_quality_pass","occurrence_event_representatives","event_records_merged","merged_event_groups","singleton_event_groups","event_groups_gt_2_records","event_groups_gt_5_records","event_groups_gt_10_records","coordinate_date_groups_quality_pass","coordinate_date_groups_representatives","documented_50km_cells","complete_priority_cells","incomplete_priority_cells","largest_cell_event_count","largest_cell_share_percent","hhi_events_by_cell","gini_events_by_cell","largest_event_group_size","largest_coordinate_date_group_size_quality_pass","largest_coordinate_date_group_size_representatives"
+3,1570,1447,691,691,756,142,549,102,63,28,383,383,59,58,1,111,16.06,0.0873,0.7468,27,64,64
+4,1570,1447,871,871,576,182,689,117,65,2,678,678,59,58,1,237,27.21,0.1247,0.7903,22,51,51
+5,1570,1447,946,946,501,132,814,99,65,2,801,801,59,58,1,312,32.98,0.1517,0.8056,22,50,50

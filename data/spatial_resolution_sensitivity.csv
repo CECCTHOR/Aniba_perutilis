@@ -1,0 +1,4 @@
+resolution_km,documented_cells,independent_events,mean_events_per_cell,median_events_per_cell,hhi_events_by_cell,gini_events_by_cell,largest_cell_share_percent
+10,114,946,8.3,1,0.1413,0.7941,32.98
+25,76,946,12.45,2,0.1494,0.8065,32.98
+50,59,946,16.03,2,0.1517,0.8056,32.98

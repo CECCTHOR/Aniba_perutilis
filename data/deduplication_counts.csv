@@ -1,0 +1,9 @@
+count_name,value,basis
+database_records,1570,Starting audit table
+spatial_event_eligible_database_records,1447,Records eligible for spatial/event analyses
+occurrence_event_representatives,946,First eligible row per event key
+inferred_physical_specimens,392,Unique inferred specimen IDs in the deduplicated analytical-unit linkage table
+coordinate_date_groups,801,Coordinate-date groups among representatives
+probable_locality_date_duplicates,997,Warning flags from R/08
+duplicate_coordinate_date_warnings,830,Warning flags from R/08
+stable_order,record_uid AP0001-AP1570,Assigned from fixed imported row order before representative selection

@@ -1,0 +1,5 @@
+"country","independent_occurrence_events","dated_independent_occurrence_events","previously_reported_events","events_without_collection_year","difference_from_previous_report","reconciliation_note"
+"Colombia",870,864,864,6,6,"Country metadata is present; difference is caused by missing collection year in temporal summaries."
+"Ecuador",36,35,35,1,1,"Country metadata is present; difference is caused by missing collection year in temporal summaries."
+"Peru",33,33,33,0,0,"Country metadata and temporal denominator agree."
+"Bolivia",7,7,7,0,0,"Country metadata and temporal denominator agree."
