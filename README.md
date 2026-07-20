@@ -1,2 +1,2 @@
 # Aniba_perutilis
-Repository with data on Aniba perutilis
+This repository provides the public reproducibility archive for a Caldasia manuscript on occurrence-data quality, sampling bias, and survey-verification priorities for *Aniba perutilis*. The archive includes R scripts, non-sensitive derived tables and generalized spatial outputs. Exact coordinates, precise localities, restricted source rows, and reversible coordinate keys are excluded to protect sensitive occurrence information for this threatened timber species.
